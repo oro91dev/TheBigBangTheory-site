@@ -1,0 +1,28 @@
+<title>Forside</title>
+<doc>load/forside.load</doc>
+
+<title>Episoder</title>
+<doc>load/episoder.load</doc>
+
+<title>Karakterer</title>
+<doc>load/karaktere.load</doc>
+
+<title>Om serien</title>
+<doc>load/omserien.load</doc>
+
+<title>Sitater</title>
+<doc>load/quotes.load</doc>
+
+<title>Media</title>
+<doc>load/media.load</doc>
+
+<title>Se serien</title>
+<doc>load/seserien.load</doc>
+
+<doc>load/nyhet1.load</doc>
+
+<doc>load/nyhet2.load</doc>
+
+<doc>load/nyhet3.load</doc>
+
+<doc>load/Opphavsrett.load</doc>

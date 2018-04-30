@@ -1,0 +1,7 @@
+<title>Testpoll</title>
+<doc>polls/testpoll.load</doc>
+<active>false</active>
+
+<title>Favmedelm</title>
+<doc>polls/favmedlem.load</doc>
+<active>true</active>
